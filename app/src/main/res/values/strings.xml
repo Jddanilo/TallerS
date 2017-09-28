@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TallerS</string>
+    <string name="str_1">Pais</string>
+    <string name="str_2">Ciudad</string>
+    <string name="txt1">Idioma</string>
+    <string name="tº2">Ciudad</string>
+    <string name="t2">Capital</string>
+    <string name="txt">Lenguaje</string>
+    <string name="tx4">Area</string>
+    <string name="t12">Ciudad</string>
+</resources>
